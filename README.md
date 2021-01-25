@@ -1,4 +1,4 @@
-### Hi there, my name is Simone Abbamonte 👋
+## Hi there, my name is Simone Abbamonte 👋
 
 ### Check out my Portfolio:
 
