@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 💻 Stack Web Developer
+- 💻 Full-Stack Web Developer
 - 💫 [Personal Portfolio](https://sabbamonte.github.io)
 
 ### Most Recent Projects:
