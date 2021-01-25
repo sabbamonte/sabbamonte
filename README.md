@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Back-end Web Developer
+- 💻 Stack Web Developer
 - 💫 [Personal Portfolio](https://sabbamonte.github.io)
 
 ### Most Recent Projects:
