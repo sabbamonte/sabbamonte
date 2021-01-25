@@ -1,5 +1,6 @@
 ## Hi there 👋
-💫 [Personal Portfolio](https://sabbamonte.github.io)
+- Back-end Web Developer
+- 💫 [Personal Portfolio](https://sabbamonte.github.io)
 
 ### Most Recent Projects:
 
