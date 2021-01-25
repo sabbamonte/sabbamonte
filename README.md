@@ -11,7 +11,7 @@ https://sabbamonte.github.io 💫
 - 🤳 WYA - https://your-wya.herokuapp.com/
 - 💰 BidLagoon - https://bidlagoon.herokuapp.com/
 
-### Currently learning:
+### Currently focusing on:
 
 - 🐍 Modern Python Applications with AWS
 - ❄️ Node.js and React
