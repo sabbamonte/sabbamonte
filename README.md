@@ -1,6 +1,6 @@
 ## Hi there, my name is Simone Abbamonte 👋
 
-💫 [Personal Portfolio](https://sabbamonte.github.io)
+### 💫 [Personal Portfolio](https://sabbamonte.github.io)
 
 ### Most Recent Projects:
 
