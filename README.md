@@ -1,20 +1,20 @@
 ### Hi there, my name is Simone Abbamonte 👋
 
-## Check out my Portfolio:
+### Check out my Portfolio:
 
 https://sabbamonte.github.io 💫
 
-## Most Recent Projects:
+### Most Recent Projects:
 
-🦠 ronaTracker: https://your-ronatracker.herokuapp.com/
-📌 Tasker: https://your-tasker.herokuapp.com/
-🤳 WYA - https://your-wya.herokuapp.com/
-💰 BidLagoon - https://bidlagoon.herokuapp.com/
+- 🦠 ronaTracker: https://your-ronatracker.herokuapp.com/
+- 📌 Tasker: https://your-tasker.herokuapp.com/
+- 🤳 WYA - https://your-wya.herokuapp.com/
+- 💰 BidLagoon - https://bidlagoon.herokuapp.com/
 
-## Currently learning:
+### Currently learning:
 
-🐍 Modern Python Applications with AWS
-❄️ Node.js and React
+- 🐍 Modern Python Applications with AWS
+- ❄️ Node.js and React
 <!--
 **sabbamonte/sabbamonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
