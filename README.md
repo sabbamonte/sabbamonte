@@ -1,6 +1,6 @@
 ## Hi there, my name is Simone Abbamonte 👋
 
-### Check out my Portfolio:
+### Portfolio:
 
 https://sabbamonte.github.io 💫
 
