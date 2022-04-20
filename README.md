@@ -4,11 +4,11 @@
 
 ### Most Recent Projects:
 
+- 💰  [ResWorx](https://resworx.herokuapp.com)
 - 🦠  [ronaTracker](https://your-ronatracker.herokuapp.com)
+- 🔖  [Django-React-ToDo](https://react-django-tasks.herokuapp.com/)
 - 📌  [Tasker](https://your-tasker.herokuapp.com)
 - 🤳  [WYA](https://your-wya.herokuapp.com)
-- 💰  [BidLagoon](https://bidlagoon.herokuapp.com)
-- 🔖  [Django-React-ToDo](https://react-django-tasks.herokuapp.com/)
 
 <!--
 **sabbamonte/sabbamonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
